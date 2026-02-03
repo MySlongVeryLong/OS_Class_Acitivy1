@@ -1,0 +1,7 @@
+total 28
+drwxrwxr-x   2 slong slong  4096 Feb  3 09:58 .
+drwxr-x---+ 27 slong slong  4096 Feb  3 09:56 ..
+-rwxrwxr-x   1 slong slong 16136 Feb  3 09:58 fork
+-rw-rw-r--   1 slong slong   555 Feb  3 09:58 forkchild.c
+-rw-rw-r--   1 slong slong     0 Feb  3 09:58 result_forkchild.txt
+Parent process finished.

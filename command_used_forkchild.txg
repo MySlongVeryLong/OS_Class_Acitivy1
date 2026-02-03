@@ -1,0 +1,15 @@
+ls
+clear
+./fork > result_forkchild.txt
+./fork
+gcc forkchild.c -o fork
+vim forkchild.c
+lsw
+cleawr
+rm fork
+touch forkchild.c
+cd class_activity2
+mkdir class_activity2
+rmdir class_activity2/
+rm class_activity2/
+cd
